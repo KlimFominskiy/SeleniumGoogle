@@ -1,0 +1,3 @@
+//    @FindBy(how = How.XPATH, using = "//ul[contains(@class,'serp-list serp-list_left_yes')]//li//div[contains(@class,'Path Organic-Path path organic__path')]//a")
+//    @FindBy(how = How.XPATH, using = "//input[contains(@class,'search3__input')]")
+//    @FindBy(how = How.XPATH, using="//button[contains(@class,'search3__button')]")
